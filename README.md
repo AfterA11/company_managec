@@ -18,7 +18,7 @@ vue2 + vuex + vue-router + echarts + elementUI + axios + mockjs
 
 >由于本博客还是小白，项目难免会有一些问题，还望各位大佬雅正
 
->如在项目中发现有问题请直接在 Issues 中提出来，或者您发现问题并有非常好的解决方案，欢迎 PR 
+>如在项目中发现有问题请直接在 Issues 中提出来，或者您发现问题并有非常好的解决方案，欢迎 PR
 
 >如果本项目对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
@@ -83,11 +83,11 @@ vue2 + vuex + vue-router + echarts + elementUI + axios + mockjs
 ------------------------
 1.  项目地址：(克隆/下载)
 ```
-git clone https://gitee.com/gpnu_wzx/company_manage.git
+git clone https://gitee.com/gpnu_wzx/company_managec.git
 ```
 2.  进入模板目录
 ```
-cd company_manage
+cd company_managec
 ```
 3.  初始化
 ```
@@ -109,4 +109,4 @@ http://localhost:8080
 
 ### 项目源码
 ------------------------
-码云地址：[https://gitee.com/gpnu_wzx/company_manage](https://gitee.com/gpnu_wzx/company_manage)
+码云地址：[https://gitee.com/gpnu_wzx/company_managec](https://gitee.com/gpnu_wzx/company_managec)
